@@ -68,7 +68,7 @@ p {
 
 #forte {
   padding: 10vh 5vw;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/photo-1415901892247-69db58b7ce2d.jpeg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
